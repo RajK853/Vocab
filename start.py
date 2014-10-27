@@ -70,7 +70,7 @@ def validatePassOrder(password):    # Created this function because the user was
     return ePass
 
 def newUserScore(userName):
-    for wordList, text in [["wordList.txt", "mScore.txt"],["synomn.txt", "sScore.txt"],["acronym.txt", "aScore.txt"]]:
+    for wordList, text in [["wordList.txt", "mScore.txt"],["synonym.txt", "sScore.txt"],["wordList.txt", "aScore.txt"]]:
         with open(wordList) as file:
             data = file.readlines()
             score = "N"*len(data)
@@ -91,7 +91,7 @@ def scoreBoard():
             print(" Synomn Mode:")
         if score == "aScore.txt":
             print()
-            print(" Acronym Mode:")
+            print(" Antonym Mode:")
         print()
         print(" Username \t Answer Accuracy (%)")
         with open(score) as file:
@@ -103,19 +103,31 @@ def scoreBoard():
                 line = "".join(line)        # Converts list to string
                 correct = line.count("C")       # Count correct answers & thanks Aritra for the idea 
                 total = correct + line.count("W")   # Count total answers
-                if total == 0:
-                    print(" %s \t \t Not practiced yet." % userName)
-                else:
-                    print(" %s \t \t %s %%" % (userName, round((100*correct/total), 2)))
+                if len(userName) <5:
+                    if total == 0:
+                        print(" %s \t \t Not practiced yet." % userName)
+                    else:
+                        print(" %s \t \t %s %%" % (userName, round((100*correct/total), 2)))
+                if len(userName) >=5:
+                    if total == 0:
+                        print(" %s \t Not practiced yet." % userName)
+                    else:
+                        print(" %s \t %s %%" % (userName, round((100*correct/total), 2)))                    
+
+def userNum():
+    with open("userData.txt") as file:
+        data = file.readlines()
+        return ("Users in database: %s" % (len(data)))
 
 #  - - - - - - - - - - - - - - - - - - Functions end here - - - - - - - - - - - - - - - - - - 
 
 grpItems = 10 # Number of items in one group
 while True:
     os.system("cls")
+    users = userNum()
     MODE = {"1" : "Log in", "2" : "Sign up", "3" : "Exit"}
     print()
-    print(" Welcome to Vocab! \t \t \t \t Created by: Rgk Rana")
+    print(" Welcome to Vocab! \t %s \t Created by: Rgk Rana" % users)
     if not os.path.isfile("userData.txt"):   # if password.txt file not present
         mode = "Sign up"
         print("  Please sign up to start.")
