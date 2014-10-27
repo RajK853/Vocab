@@ -1,15 +1,15 @@
 import os, sys, random, time
 
 def getWordList(mode):
-    textFile = {"1" : "wordList.txt", "2":"synonym.txt", "3":"acronym.txt"}
+    textFile = {"1" : "wordList.txt", "2":"synonym.txt", "3":"wordList.txt"}
     wordList = []
     with open(textFile[mode]) as file:
         data = file.readlines()
         for line in data:
             if mode == "2":           # For synonym mode
                 wordList.append(line.split())
-            if mode != "2":           # For meaning and acronym mode
-                wordList.append(line.split(" ", 1))     # splits the line at only once in space and divides it into two items i.e word and meaning
+            if mode != "2":           # For meaning and antonym mode
+                wordList.append(line.split(":"))     # splits the line at only once in space and divides it into two items i.e word and meaning
         return wordList
     
 def groupWords(wordList, grpItems):
@@ -31,13 +31,16 @@ def generateAnswers(meaning, grpNum, remove, oldList, mode):    # Generates 4 an
         selectedAns = [meaning]         # correct meaning
         while True:
             x = random.choice(group[grpNum])        # randomly selects a word and meaning of the same group
+            if mode == "1":       # Meaning or Antonym
+                if x[1] not in selectedAns:
+                    selectedAns.append(x[1])
             if mode == "2":     # Synonyms:
                 i = random.randint(0, len(x)-1)
                 if x[i] not in selectedAns and meaning not in x:
                     selectedAns.append(x[i])
-            else:       # Meaning or Acronym
-                if x[1] not in selectedAns:
-                    selectedAns.append(x[1])
+            if mode == "3":
+                if x[2] not in selectedAns:
+                    selectedAns.append(x[2])
             if len(selectedAns) == 4:                       # When four options created
                 random.shuffle(selectedAns)
                 break
@@ -60,14 +63,16 @@ def askQuestion(grpNum, score, mode):
         oldSelectedAns = []
         while True:
             os.system("cls")
+            if mode == "1":     # Meaning
+                word, meaning = group[grpNum][i][0], group[grpNum][i][1]
             if mode == "2": # Synonym
                 x, y = 0, 0     # x and y will be used as index for word and meaning
                 while x == y:       # Loop until x and y have different integer values
                     x = random.randint(0, len(group[grpNum][i])-1)
                     y = random.randint(0, len(group[grpNum][i])-1)
                 word, meaning = group[grpNum][i][x], group[grpNum][i][y]
-            else:   # Meaning or Acronym
-                word, meaning = group[grpNum][i][0], group[grpNum][i][1]
+            else:           # Antonym
+                word, meaning = group[grpNum][i][0], group[grpNum][i][2]
             qStatus = status(userName, grpNum, i, score)
             print()
             print("Helps: %s     Status: %s       %s of %s" % ("o"*helps, qStatus, i+1, len(group[grpNum])))
@@ -128,7 +133,7 @@ def getScore():         # Returns the score data from files and convert them int
         for line in data:
             sScore.append(line.split())
     with open("aScore.txt") as file:
-        aScore = []             # Score in acronym mode
+        aScore = []             # Score in antonym mode
         data = file.readlines()
         for line in data:
             aScore.append(line.split())
@@ -250,7 +255,7 @@ def main():
             os.system("cls")
             print()
             print("Practice Modes:")
-            print("1) Meaning \n2) Synonym \n3) Acronym")
+            print("1) Meaning \n2) Synonym \n3) Antonym")
             print()
             mode = input("Select mode or type 'back': ")
         mScore, sScore, aScore = getScore()
@@ -340,4 +345,3 @@ def main():
                 askQuestion(grpNum, aScore, mode)
                 showTestResult(userName, aScore, grpNum)
                 break
-main()
