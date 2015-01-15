@@ -700,6 +700,8 @@ def askQuestion(group, grpNum, score, mode, musicPlaying, HIGHLIGHT, startupChec
                                 checkAnswer(True)
                             else:
                                 updateScore(userName, score, mode, grpNum, i, "W")
+                                rect = ANSWERRECTS[ord(cAns)-ord("A")]
+                                highlight(pygame.Rect(rect.left-25, rect.top, rect.width, rect.height), GREEN)
                                 checkAnswer(False)
                             break
                     if musicRect.colliderect((x, y, 0, 0)):
