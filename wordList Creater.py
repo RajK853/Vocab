@@ -11,12 +11,14 @@ def end():
 
 def main():
         print()
-        print("This program creates wordlist by adding meanings, antonyms or synonyms from the wordlist your provide.")
+        print("This program creates wordlist by adding meanings, antonyms or synonyms in your wordlist.")
+        print()
+        print("Make sure your wordlist is in .txt format and each word is in seperate line.")
         print()
         listName = ""
         while True:
                 while not os.path.isfile("{}.txt".format(listName)):
-                        listName = input("Enter the name of the file with your word: ")
+                        listName = input("Enter the name of the file with your words: ")
                         if not os.path.isfile("{}.txt".format(listName)):
                                 print("File name {}.txt not found.".format(listName))
                                 print()
