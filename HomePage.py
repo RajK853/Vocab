@@ -666,9 +666,9 @@ def askQuestion(group, grpNum, score, mode, musicPlaying, HIGHLIGHT, startupChec
             writeText(qStatus, statusColor[qStatus], pygame.Rect(sText.right+5, musicRect.bottom+10, 25, 10), 14, False)
             qText = writeText("of", WHITE, pygame.Rect(WINW-50, musicRect.bottom+10, 8, 10), 14, True)
             if len(str(i+1)) == 1:
-                writeText(str(i+1), BLUE, pygame.Rect(qText.left-12, musicRect.bottom+10, 10, 10), 14, False)
+                writeText(str(i+1), BLUE, pygame.Rect(qText.left-15, qText.top-5, 10, 10), 20, False)
             elif len(str(i+1)) == 2:
-                writeText(str(i+1), BLUE, pygame.Rect(qText.left-20, musicRect.bottom+10, 10, 10), 14, False)
+                writeText(str(i+1), BLUE, pygame.Rect(qText.left-25, qText.top-5, 10, 10), 20, False)
             writeText(str(len(group[grpNum])), WHITE, pygame.Rect(qText.right+5, musicRect.bottom+10, 10, 10), 14, False)
             helpRect = help(hText, helpUsed, helps)
             # Codes for current word asked and the four answer choices for it
