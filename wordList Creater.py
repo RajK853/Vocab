@@ -123,9 +123,9 @@ def writeWords(mode, data):
                                 line = ":".join(item)+"\n"
                                 file.write(line)
         if mode == "syno":
-                with open("synonyms.txt", "w") as file:
+                with open("synonym.txt", "w") as file:
                         file.write("")
-                with open("synonyms.txt", "a") as file:
+                with open("synonym.txt", "a") as file:
                         for item in data:
                                 file.write(item+"\n")
 
