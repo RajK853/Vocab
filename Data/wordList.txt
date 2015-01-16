@@ -1,87 +1,87 @@
-Abhor : hate:admire, cherish, adore, relish, like
-Bigot : narrow-minded, prejudiced person:humanitarian, moderate, liberal, tolerator
-Counterfeit : fake; false:factual, real, valid, honest, truthful
-Enfranchise : give voting rights:incarcerate, restrain, limit, enslave, hold
-Hamper : hinder; obstruct:aid, assist, facilitate, further, permit
-Kindle : to start a fire:put out, dull, extinguish, quench, disenchant
-Noxious : harmful; poisonous; lethal:helpful, healthy, harmless, kind, curing
-Placid : calm; peaceful:agitated, excited, clamorous, noisy, disturbed
-Abrasive : rough; coarse; harsh:kind, pleasing, pleasant, soothing, calm
-Bilk : cheat; defraud:aid, assist, give, lose, encourage
-Covert : hidden; undercover:unconcealed, known, aboveboard, candid, frank
-Engender : cause:destroy, prevent, calm, wait, repress
-Knotty : complex; difficult to solve:facile, uncomplicated, easy, smooth, simple
-Nuance : something subtle; a fine shade of meaning:information, brightness, light, lot
-Plagiarism : taking credit for someone else's writing or ideas:originality, return, original
-Renown : fame:anonymity, obscurity, unimportance
-Abasement : humiliation; degradation:upgrade, honor, elevation
-Billowing : swelling; fluttering; waving:stabilize, shrink
-Cower : recoil in fear or servility; shrink away from:face, meet, come out
-Enhance : improve; make better or clearer:decrease, lessen, weaken, subtract, undermine
-Harangue : noisy, attacking speech:be quiet
-Labyrinth : a maze:simplicity, ease, line, order, organization
-Nullify : to counter; make unimportant:permit, validate, ratify, sanction, institute
-Replete : full:unfilled, lacking, wanting, needy, empty
-Tangible : can be touched:abstract, conceptual, imperceptible, intangible, unreal
-Abrogate : cancel; deny; repeal:permit, validate, sanction, schedule, set up
-Blasphemy : speech which offends religious sentiments:godliness, piety, religion, religiousness, reverence
-Credible : believable:undependable, unreliable, untrustworthy, unacceptable, implausible
-Labyrinthine : complicated; highly convoluted:direct, straight, straightforward, simple
-Nuzzle : cuddle; snuggle:separate
-Plaudit : statement giving strong praise:silence, disapproval, criticism
-Reprehensible : shameful; very bad:creditable, kind, good, respectable
-Tardy : slow; late; overdue; delayed:on time, prompt, punctual, early, ready
-Blatant : obvious:concealed, hidden, moral, inconspicuous, secret
-Creditable	 : praiseworthy:unworthy, dishonorable, bad, poor, disrespected
-Ensconce : establish firmly in a position:disorder, disorganize, unsettle, uncover, destroy
-Hasten : hurry; accelerate; rush:decelerate, hinder, slow, retard, aid
-Laceration : a cut:closure
-Obdurate : stubborn:submissive, susceptible, amenable, gentle, yielding
-Plausible : can be believed; reasonable:improbable, inconceivable, unbelievable, unimaginable, unlikely
-Reprieve : a respite; postponement of a sentence:continuation
-Tawdry : of little value; gaudy:tasteful, nice, sophisticated
-Abstain : desist; go without; withdraw:use, continue, do, accept, allow
-Blighted : damaged; destroyed; ruined:aid, assist, compliment, praise, grow
-Credulous : gullible; ready to believe anything:skeptical, untrusting, suspecting, suspicious
-Enshroud : cover:disclose, divulge, uncover, unmask, expose
-Haughtiness : arrogance; pride:admiration, humility, meekness, modesty, shyness
-Obfuscate : deliberately make something difficult to understand:enlighten, explain, explicate, clear up, clarify
-Plethora : an excess:lack, scarcity, little, need, want
-Repudiate : shun; eschew:emphasize, enforce, welcome, sanction, consent
-Tedium : boredom:excitement, entertainment, diversion
-Abstemious : self denying; refraining from indulging:gluttonous, greedy, hungry
-Blithe : free-spirited; carefree:lethargic, worried, heavyhearted, morose, sorrowful
-Crepuscular : active at dawn and dusk:intelligent, cheerful, joyful, vivacious, illuminated
-Headstrong : stubborn; willful:docile, obedient, submissive, tolerant, calm
-Lackluster : dull; monotonous; bland:enthusiastic, lively, shiny, spirited, bright
-Objective : unbiased; not subjective:biased, interested, subjective, excited, friendly
-Pliable : flexible; not stubborn:rigid, obstinate, stubborn, unyielding, unbendable
-Rescind : retract; repeal:permit, sanction, validate, enforce, institute
-Temper : to moderate; soften:happiness, upset, wrath, body
-Abstruse : difficult to understand; obscure:obvious, clear, concrete, easy, lucid
-Cringe : recoil; flinch; shy away:stretch, come forward, face, meet
-Envenom : to cause bitterness and bad feeling:aid, assist, mend, calm, heal
-Hedonism : self indulgence; pleasure-seeking:dissatisfaction, sorrow, unhappiness
-Laconic : using few words; brief; to the point:long-winded, wordy, verbose
-Oblique : indirect; slanting:forthright, direct, straightforward
-Plumage : feathers of a bird:individual, one
-Resignation : acceptance of fate:impatience, intolerance, resistance, stay, agreement
-Tenacious : stubborn; resolute; holding firm to a purpose:irresolute, unreliable, kind, unattached, yielding
-Bolster : support; prop up:block, hinder, injure, obstruct, decrease
-Cryptic : puzzling; enigmatic:known, obvious, clear, plain, definite
-Ephemeral : short-lived:enduring, lasting, long-lived, permanent, perpetual
-Hedonist : a pleasure seeker:puritan, ascetic
-Lamentation : expression of regret or sorrow:celebration, praise, enjoyment
-Obliterate	 : destroy; demolish; eradicate:create, revive, aid, assist, schedule
-Plummet : fall suddenly and steeply:ascend, increase, grow, rise, go up
-Resolution : determination:indecision, apathy, idleness, laziness, lethargy
-Tentative : not certain:decisive, conclusive, certain, definite, final
-Acquiesce : to agree to; give in to:refuse, deny, reject, resist, dissuade
-Bombast : arrogant, pompous language:plain speaking
-Curtail : cut short:grow, increase, enlarge, lengthen, stretch
-Heed : listen to:heedlessness, thoughtlessness, negligence, disdain, disrespect
-Lampoon : ridicule; spoof:flattery, praise
-Oblivious : totally unaware:aware, mindful, understanding, attentive, concerned
-Resonant : echoing:faint, quiet
-Tenuous : flimsy; not solid:healthy, stable, certain, definite, sure
+Abhor :regard with disgust and hatred.:admire, cherish, adore, relish, like
+Bigot :a person who is intolerant towards those holding different opinions.:humanitarian, moderate, liberal, tolerator
+Counterfeit :made in exact imitation of something valuable with the intention to deceive or defraud.:factual, real, valid, honest, truthful
+Enfranchise :give the right to vote to.:incarcerate, restrain, limit, enslave, hold
+Hamper :a basket with a carrying handle and a hinged lid, used for food, cutlery, and plates on a picnic.:aid, assist, facilitate, further, permit
+Kindle :set (something) on fire.:put out, dull, extinguish, quench, disenchant
+Noxious :harmful, poisonous, or very unpleasant.:helpful, healthy, harmless, kind, curing
+Placid :not easily upset or excited.:agitated, excited, clamorous, noisy, disturbed
+Abrasive :(of a substance or material) capable of polishing or cleaning a hard surface by rubbing or grinding.:kind, pleasing, pleasant, soothing, calm
+Bilk :obtain or withhold money from (someone) unfairly or by deceit; cheat or defraud.:aid, assist, give, lose, encourage
+Covert :not openly acknowledged or displayed.:unconcealed, known, aboveboard, candid, frank
+Engender :cause or give rise to (a feeling, situation, or condition).:destroy, prevent, calm, wait, repress
+Knotty :full of knots.:facile, uncomplicated, easy, smooth, simple
+Nuance :a subtle difference in or shade of meaning, expression, or sound.:information, brightness, light, lot
+Plagiarism :the practice of taking someone else's work or ideas and passing them off as one's own.:originality, return, original
+Renown :the condition of being known or talked about by many people; fame.:anonymity, obscurity, unimportance
+Abasement :the action or fact of abasing or being abased; humiliation or degradation.:upgrade, honor, elevation
+Billowing :(of fabric) fill with air and swell outwards.:stabilize, shrink
+Cower :crouch down in fear.:face, meet, come out
+Enhance :intensify, increase, or further improve the quality, value, or extent of.:decrease, lessen, weaken, subtract, undermine
+Harangue :a lengthy and aggressive speech.:be quiet
+Labyrinth :a complicated irregular network of passages or paths in which it is difficult to find one's way; a maze.:simplicity, ease, line, order, organization
+Nullify :make legally null and void; invalidate.:permit, validate, ratify, sanction, institute
+Replete :filled or well-supplied with something.:unfilled, lacking, wanting, needy, empty
+Tangible :perceptible by touch.:abstract, conceptual, imperceptible, intangible, unreal
+Abrogate :repeal or do away with (a law, right, or formal agreement).:permit, validate, sanction, schedule, set up
+Blasphemy :the action or offence of speaking sacrilegiously about God or sacred things; profane talk.:godliness, piety, religion, religiousness, reverence
+Credible :able to be believed; convincing.:undependable, unreliable, untrustworthy, unacceptable, implausible
+Labyrinthine :(of a network) like a labyrinth; irregular and twisting.:direct, straight, straightforward, simple
+Nuzzle :rub or push against gently with the nose and mouth.:separate
+Plaudit :praise.:silence, disapproval, criticism
+Reprehensible :deserving censure or condemnation.:creditable, kind, good, respectable
+Tardy :delaying or delayed beyond the right or expected time; late.:on time, prompt, punctual, early, ready
+Blatant :(of bad behaviour) done openly and unashamedly.:concealed, hidden, moral, inconspicuous, secret
+Creditable	 :(of a performance, effort, or action) deserving public acknowledgement and praise but not necessarily outstanding or successful.:unworthy, dishonorable, bad, poor, disrespected
+Ensconce :establish or settle (someone) in a comfortable, safe place.:disorder, disorganize, unsettle, uncover, destroy
+Hasten :be quick to do something.:decelerate, hinder, slow, retard, aid
+Laceration :a deep cut or tear in skin or flesh.:closure
+Obdurate :stubbornly refusing to change one's opinion or course of action.:submissive, susceptible, amenable, gentle, yielding
+Plausible :(of an argument or statement) seeming reasonable or probable.:improbable, inconceivable, unbelievable, unimaginable, unlikely
+Reprieve :cancel or postpone the punishment of (someone, especially someone condemned to death).:continuation
+Tawdry :showy but cheap and of poor quality.:tasteful, nice, sophisticated
+Abstain :restrain oneself from doing or enjoying something.:use, continue, do, accept, allow
+Blighted :infect (plants) with blight.:aid, assist, compliment, praise, grow
+Credulous :having or showing too great a readiness to believe things.:skeptical, untrusting, suspecting, suspicious
+Enshroud :envelop completely and hide from view.:disclose, divulge, uncover, unmask, expose
+Haughtiness :the appearance or quality of being arrogantly superior and disdainful.:admiration, humility, meekness, modesty, shyness
+Obfuscate :make obscure, unclear, or unintelligible.:enlighten, explain, explicate, clear up, clarify
+Plethora :a large or excessive amount of something.:lack, scarcity, little, need, want
+Repudiate :refuse to accept; reject.:emphasize, enforce, welcome, sanction, consent
+Tedium :the state or quality of being tedious.:excitement, entertainment, diversion
+Abstemious :indulging only very moderately in something, especially food and drink.:gluttonous, greedy, hungry
+Blithe :showing a casual and cheerful indifference considered to be callous or improper.:lethargic, worried, heavyhearted, morose, sorrowful
+Crepuscular :resembling or relating to twilight.:intelligent, cheerful, joyful, vivacious, illuminated
+Headstrong :energetically wilful and determined.:docile, obedient, submissive, tolerant, calm
+Lackluster :lacking in vitality, force, or conviction; uninspired or uninspiring.:enthusiastic, lively, shiny, spirited, bright
+Objective :(of a person or their judgement) not influenced by personal feelings or opinions in considering and representing facts.:biased, interested, subjective, excited, friendly
+Pliable :easily bent; flexible.:rigid, obstinate, stubborn, unyielding, unbendable
+Rescind :revoke, cancel, or repeal (a law, order, or agreement).:permit, sanction, validate, enforce, institute
+Temper :a person's state of mind seen in terms of their being angry or calm.:happiness, upset, wrath, body
+Abstruse :difficult to understand; obscure.:obvious, clear, concrete, easy, lucid
+Cringe :bend one's head and body in fear or apprehension or in a servile manner.:stretch, come forward, face, meet
+Envenom :put poison on or into; make poisonous.:aid, assist, mend, calm, heal
+Hedonism :the pursuit of pleasure; sensual self-indulgence.:dissatisfaction, sorrow, unhappiness
+Laconic :(of a person, speech, or style of writing) using very few words.:long-winded, wordy, verbose
+Oblique :neither parallel nor at right angles to a specified or implied line; slanting.:forthright, direct, straightforward
+Plumage :a bird's feathers collectively.:individual, one
+Resignation :an act of resigning from a job or office.:impatience, intolerance, resistance, stay, agreement
+Tenacious :tending to keep a firm hold of something; clinging or adhering closely.:irresolute, unreliable, kind, unattached, yielding
+Bolster :a long, thick pillow that is placed under other pillows for support.:block, hinder, injure, obstruct, decrease
+Cryptic :having a meaning that is mysterious or obscure.:known, obvious, clear, plain, definite
+Ephemeral :lasting for a very short time.:enduring, lasting, long-lived, permanent, perpetual
+Hedonist :a person who believes that the pursuit of pleasure is the most important thing in life; a pleasure-seeker.:puritan, ascetic
+Lamentation :the passionate expression of grief or sorrow; weeping.:celebration, praise, enjoyment
+Obliterate :destroy utterly; wipe out.:create, revive, aid, assist, schedule
+Plummet :fall or drop straight down at high speed.:ascend, increase, grow, rise, go up
+Resolution :a firm decision to do or not to do something.:indecision, apathy, idleness, laziness, lethargy
+Tentative :not certain or fixed; provisional.:decisive, conclusive, certain, definite, final
+Acquiesce :accept something reluctantly but without protest.:refuse, deny, reject, resist, dissuade
+Bombast :high-sounding language with little meaning, used to impress people.:plain speaking
+Curtail :reduce in extent or quantity; impose a restriction on.:grow, increase, enlarge, lengthen, stretch
+Heed :pay attention to; take notice of.:heedlessness, thoughtlessness, negligence, disdain, disrespect
+Lampoon :publicly criticize (someone or something) by using ridicule, irony, or sarcasm.:flattery, praise
+Oblivious :not aware of or concerned about what is happening around one.:aware, mindful, understanding, attentive, concerned
+Resonant :(of sound) deep, clear, and continuing to sound or reverberate.:faint, quiet
+Tenuous :very weak or slight:healthy, stable, certain, definite, sure
 
